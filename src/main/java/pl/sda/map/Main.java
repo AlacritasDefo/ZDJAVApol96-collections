@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Main {
-
     public static void main(String... args) {
         //baza produktow po eanie
         Map<String, String> eansWithProducts = new HashMap<>();
